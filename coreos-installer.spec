@@ -2,7 +2,7 @@
 
 Name:           coreos-installer
 #               This will be set by osc services, that will run after this.
-Version:        0.0.0
+Version:        0.9.1
 Release:        0
 Summary:        Installer for Fedora CoreOS, openSUSE Kubic, and RHEL CoreOS
 # Upstream license specification: Apache-2.0
