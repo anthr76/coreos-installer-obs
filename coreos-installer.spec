@@ -21,7 +21,7 @@ ExcludeArch:    s390 s390x ppc ppc64 ppc64le %ix86
 
 %global _description %{expand:
 coreos-installer installs Fedora CoreOS, openSUSE Kubic or RHEL CoreOS to bare-metal 
-machines (or, occasionally, to virtual machines).
+machines (or, occasionally, to virtual machines)
 }
 
 %description %{_description}
